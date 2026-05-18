@@ -1,4 +1,4 @@
-Browsify is a MIDI-mappable browser for Ableton Live.
+Browsify is a MIDI-mappable browser for Ableton Live. v 0.1.0
 
 Map all of the controls you need for complete midi control
 Navigate, Preview, Search, and load into your Ableton project — directly from your MIDI controller.
