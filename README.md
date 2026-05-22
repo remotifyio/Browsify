@@ -21,6 +21,8 @@
 
 Browsify is a MIDI-mappable browser for Ableton Live.
 
+Product Page: https://remotify.io/product/browsify/
+
 Control the Ableton Browser directly from your MIDI controller with support for:
 
 - Navigation
@@ -29,9 +31,26 @@ Control the Ableton Browser directly from your MIDI controller with support for:
 - Loading devices, instruments and samples
 - MIDI and keyboard shortcut control
 - External display and mobile device support
+  
+---
 
+# Installation
+
+Download Browsify for your operating system. 
+
+- **Mac Intel**  
+  https://remotify.io/wp-json/remotify-analytics/v1/browsify/download/mac_intel
+
+- **Mac Silicon (M1, M2, M3...)**  
+  https://remotify.io/wp-json/remotify-analytics/v1/browsify/download/mac_silicon
+
+- **Windows**  
+  https://remotify.io/wp-json/remotify-analytics/v1/browsify/download/windows
+
+Then follow the simple in-app setup steps
 
 ---
+
 
 # Features
 
@@ -122,20 +141,3 @@ Use your mobile phone or tablet as a touchable Ableton Browser.
 - Ableton Live 11 or 12
 - macOS or Windows
 - Any MIDI controller (optional)
-
----
-
-# Installation
-
-Download Browsify for your operating system. 
-
-- **Mac Intel**  
-  https://remotify.io/wp-json/remotify-analytics/v1/browsify/download/mac_intel
-
-- **Mac Silicon (M1, M2, M3...)**  
-  https://remotify.io/wp-json/remotify-analytics/v1/browsify/download/mac_silicon
-
-- **Windows**  
-  https://remotify.io/wp-json/remotify-analytics/v1/browsify/download/windows
-
-Then follow the simple in-app setup steps
