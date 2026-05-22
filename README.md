@@ -62,12 +62,6 @@ Navigate, preview, search and load directly into your Ableton project — withou
 
 ---
 
-## MIDI Search Control
-
-Quickly jump to the search box directly from your MIDI controller for fast filtering and workflow.
-
----
-
 ## Flexible Navigation Modes
 
 Navigation can be controlled using:
