@@ -108,14 +108,6 @@ Perfect for:
 
 ---
 
-## Mobile & Tablet Support
-
-No second screen available?
-
-Use your mobile phone or tablet as a touchable Ableton Browser.
-
----
-
 # Screenshots
 
 <p align="center">
